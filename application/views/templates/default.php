@@ -53,7 +53,7 @@
 </div>
 
 <div class="container">
-
+	<?php echo Notify::render()?>
 	<?php echo $content?>_
 </div> <!-- /container -->
 
